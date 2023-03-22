@@ -109,6 +109,7 @@ ssh -T git@github.com
 2.	Scroll down and click the “Developer Settings” link.
 3.	Click the GitHub “Personal access tokens” link and click the “Generate new token” link and provide your password again if required
 4.	Copy and keep this token on you – this will be your new password when clone next!
+
 ![Token example](images/4.png)
   
 ## **Installing PostgreSQL on Windows (WSL-Ubuntu)**
