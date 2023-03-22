@@ -1,3 +1,3 @@
-#Setting up Ruby
+## Setting up Ruby
 
 [Ruby on Windows](./rubyonwindows.md)
